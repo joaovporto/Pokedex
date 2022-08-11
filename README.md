@@ -8,7 +8,7 @@ Pokedéx que consome a API do PokeAPI</p>
 ## 🔥 Project Link
 
 <ul>
-  <li><a href="https://joaovporto.github.io/Pokedex/">Link</li>
+<li><a href="https://joaovporto.github.io/Pokedex/">Link</li>
 
 ## 🛠️ Technologies
 
