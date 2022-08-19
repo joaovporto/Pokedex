@@ -7,7 +7,7 @@
 ## 🔥 Project Link
 
 
-<li><a href="https://joaovporto.github.io/pokedex/">Pokedex</li>
+<li><a href="https://joaovporto.github.io/Pokedex/">Pokedex</li>
 
 ## 🛠️ Technologies
 
